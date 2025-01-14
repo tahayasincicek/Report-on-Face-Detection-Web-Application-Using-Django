@@ -17,5 +17,14 @@ This project is built using the Django framework. To run it on your local machin
 - Python 3.x or higher.
 - Django and other dependencies should be installed.
 
+- ## Technologies
+
+- **Django**: Web framework.
+- **HTML**: Markup language for structuring web content.
+- **CSS**: Style sheet language for designing the visual layout of web pages.
+- **OpenCV**: Library used for face detection.
+- **Python**: Programming language for running the Django application and face detection algorithms.
+
+
 
 
