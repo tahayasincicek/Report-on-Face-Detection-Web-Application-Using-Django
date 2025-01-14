@@ -17,7 +17,7 @@ This project is built using the Django framework. To run it on your local machin
 - Python 3.x or higher.
 - Django and other dependencies should be installed.
 
-- ## Technologies
+## Technologies
 
 - **Django**: Web framework.
 - **HTML**: Markup language for structuring web content.
