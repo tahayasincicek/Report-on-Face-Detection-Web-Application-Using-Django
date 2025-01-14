@@ -23,7 +23,7 @@ This project is built using the Django framework. To run it on your local machin
    You can add icons to your README by embedding SVG or using font-awesome links. Here’s an example of how you might include Django’s icon and some additional icons to represent HTML and CSS:
 
 ```markdown
-## Technologies
+###Technologies
 
 - ![Django](https://img.icons8.com/color/48/000000/django.png) **Django**: Web framework.
 - ![HTML](https://img.icons8.com/ios-filled/50/000000/html-5.png) **HTML**: Markup language for structuring web content.
